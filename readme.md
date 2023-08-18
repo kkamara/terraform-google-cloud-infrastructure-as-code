@@ -15,7 +15,6 @@ Terraform infrastructure as code with Google Cloud Platform services: Cloud DNS 
 * [License](#license)
 
 ## Installation
-A
 
 ```bash
 # 
