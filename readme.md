@@ -1,6 +1,6 @@
 <img src="https://github.com/kkamara/useful/raw/main/movies.png" alt="movies.png" width=""/>
 
-# terraform-google-cloud-cloud-infrastructure-as-code
+# terraform-google-cloud-infrastructure-as-code
 
 Terraform infrastructure as code with Google Cloud Platform services: Cloud DNS API, Compute Engine API and IAM API.
 
