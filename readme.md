@@ -24,9 +24,9 @@ touch terraform-with-gcp/infra/terraform.tfvars
 
 ```
 # terraform-with-gcp/infra/terraform.tfvars
-gcp_service_key = "../valid-might-396317-5afa20df158e.json"
-gcp_project = "valid-might-396317"
-gcp_region = "EUROPE-WEST2"
+gcp_service_key = ""
+gcp_project = ""
+gcp_region = ""
 ```
 
 Initialise terraform.
