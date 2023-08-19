@@ -16,14 +16,25 @@ Terraform infrastructure as code with Google Cloud Platform services: Cloud DNS 
 
 ## Installation
 
+Create environment file.
+
 ```bash
-# 
+touch terraform-with-gcp/infra/terraform.tfvars
+```
+
+Initialise terraform.
+
+```bash
+cd terraform-with-gcp/infra
+terraform init
+# View predeploy plan.
+terraform plan
 ```
 
 ## Usage
 
 ```bash
-# 
+terraform apply
 ```
 
 ## Contributing
